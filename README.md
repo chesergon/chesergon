@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Lyne.;I+Am+a+JavaScript+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/CodingAce123)
 
-<h1 align="center">Shuee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Lyne Chesergon- a.k.a. 👱🏼 CodingGirl (☕💻💡❤)®™</h1>
+<h1 align="center">HELLO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Lyne Chesergon- a.k.a. 👱🏼 CodingGirl (☕💻💡❤)®™</h1>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/CodingAce123)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/CodingAce123)
