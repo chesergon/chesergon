@@ -2,31 +2,27 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6e40c9&height=200&section=header&text=Chesergon&fontSize=80&fontColor=ffffff&animation=fadeIn)
 
-# `< Hello World! />` 👾
-
-### Lyne Chesergon · Data Scientist in the Making · CodingGirl®™
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%94%AC;Python+Enthusiast+%F0%9F%90%8D;Machine+Learning+Explorer+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Data+Scientist;Python+%7C+Machine+Learning;Turning+Raw+Data+into+Insight)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌌 About Me
+## About Me
 ```python
 chesergon = {
     "name": "Lyne Chesergon",
-    "aka": "CodingGirl®™",
-    "location": "Kenya 🇰🇪",
-    "current_focus": ["Data Science", "Python", "Machine Learning"],
-    "learning_at": "Zetech University",
-    "fun_fact": "I went from JavaScript to conquering Data Science 🔥"
+    "location": "Kenya",
+    "focus": ["Data Science", "Machine Learning", "Python"],
+    "university": "Zetech University",
+    "previous": "JavaScript & Frontend Development",
+    "goal": "Top Data Scientist in Africa"
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6e40c9)
 ![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=6e40c9)
@@ -39,35 +35,47 @@ chesergon = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Chesergon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chesergon&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000)
+![Chesergon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chesergon&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chesergon&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chesergon&layout=compact&theme=midnight-purple&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chesergon&theme=midnight-purple&hide_border=true&background=000000)
+![GitHub Streak](https://streak-stats.demolab.com?user=chesergon&theme=midnight-purple&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
+## Data Science Visualizations
 
-- 🔬 Statistical Analysis & Data Cleaning
-- 🤖 Machine Learning Algorithms
-- 📊 Data Visualization (Matplotlib, Seaborn)
-- 🧠 Deep Learning (coming soon...)
+<div align="center">
+
+![Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['NumPy','Pandas','Matplotlib','Statistics','ML'],datasets:[{label:'Skill+Progress+%25',data:[75,70,65,60,40],backgroundColor:['%236e40c9','%237b52d4','%238864df','%239576ea','%23a288f5']}]},options:{plugins:{legend:{labels:{color:'white'}}},scales:{x:{ticks:{color:'white'},grid:{color:'%23333'}},y:{ticks:{color:'white'},grid:{color:'%23333'}}}}}&backgroundColor=%23000000&width=600&height=300)
+
+![Line Chart](https://quickchart.io/chart?c={type:'line',data:{labels:['Jan','Feb','Mar','Apr','May','Jun'],datasets:[{label:'Learning+Progress',data:[10,25,40,55,70,85],borderColor:'%236e40c9',backgroundColor:'rgba(110,64,201,0.1)',fill:true,tension:0.4}]},options:{plugins:{legend:{labels:{color:'white'}}},scales:{x:{ticks:{color:'white'},grid:{color:'%23333'}},y:{ticks:{color:'white'},grid:{color:'%23333'}}}}}&backgroundColor=%23000000&width=600&height=300)
+
+</div>
 
 ---
 
-## ⚡ Fun Facts
+## Currently Learning
 
-- 🌍 19 year old developer from Kenya
-- 💜 Went from building websites to analyzing data
-- ☕ Coffee + code = life
-- 🎯 Goal: Become a top Data Scientist in Africa
+- Statistical Analysis & Data Cleaning
+- Machine Learning Algorithms
+- Data Visualization — Matplotlib & Seaborn
+- Deep Learning — coming soon
+
+---
+
+## Fun Facts
+
+- 19 year old developer from Kenya
+- Transitioned from Frontend to Data Science
+- Coffee and late night coding sessions
+- Building towards becoming a top Data Scientist in Africa
 
 ---
 
