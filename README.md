@@ -86,3 +86,10 @@ active_projects = {
 }
 
 learning = ["MLOps", "Ray", "Kubernetes", "MLflow"]
+Connect
+https://img.shields.io/badge/GitHub-chesergon-181717?style=for-the-badge&logo=github
+https://img.shields.io/badge/LinkedIn-Lyne_Chesergon-0A66C2?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/Kaggle-chesergon-20BEFF?style=for-the-badge&logo=kaggle
+
+
+
