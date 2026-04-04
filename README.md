@@ -2,130 +2,122 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6e40c9&height=220&section=header&text=Lyne%20Chesergon&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20Full%20Stack%20Engineer&descSize=20&descAlignY=75&descColor=a288f5)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Data+Scientist+%2B+Full+Stack+Engineer+%F0%9F%94%A5;I+build+products+AND+find+insights+in+data+%F0%9F%92%A1;Python+%7C+ML+%7C+Next.js+%7C+Vue.js+%F0%9F%9A%80;Data+is+the+new+oil+%E2%80%94+and+I%27m+drilling+%F0%9F%9B%A2%EF%B8%8F)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## About Me
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=chesergon&show_icons=true&theme=midnight-purple&hide_border=true&title_color=a288f5&icon_color=6e40c9&text_color=ffffff" />
 
-Full Stack Engineer → Data Scientist based in Kenya.
+## 👩🏽‍💻 Who Am I
 
-Building production ML systems and end-to-end data products.
+I'm **Lyne Chesergon** — a Full Stack Engineer turned Data Scientist from Kenya 🇰🇪
 
----
+I don't just write code. I build products, extract insights from messy data, and turn numbers into decisions that matter.
 
-## Tech Stack
+Currently deep in **Machine Learning** and **Statistical Analysis** while carrying years of full stack experience.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+> *"Data is the new oil — and I'm drilling." 🛢️*
+
+<br clear="right"/>
 
 ---
 
-## Data Visualizations
+## 🛠️ The Stack — Both Worlds
 
-### Feature Importance - Churn Model
-Usage Frequency ████████████████████ 42%
-Support Tickets ██████████████ 28%
-Avg Bill █████████ 18%
-Contract Length ████ 8%
-Age ██ 4%
+**🔬 Data Science**
 
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6e40c9)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=6e40c9)
+![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=6e40c9)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=6e40c9)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=6e40c9)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=6e40c9)
 
+**💻 Software Engineering**
 
-### Model Performance Comparison
-Accuracy: ████████████████████ 89% (XGBoost) ██████████████████ 85% (RF)
-Precision: ███████████████████ 87% ██████████████████ 83%
-Recall: ████████████████████ 88% ██████████████████ 84%
-F1 Score: ███████████████████ 87% ██████████████████ 83%
-AUC: █████████████████████ 91% ███████████████████ 88%
-
-
-
-### Sales Forecast (Last 6 Months)
-Month Actual Predicted Forecast
-─────────────────────────────────────────
-Jan ██████ 65 ██████ 66 -
-Feb ███████ 70 ███████ 69 -
-Mar ██████ 68 ██████ 70 -
-Apr ███████ 72 ███████ 71 -
-May ███████ 75 ███████ 74 -
-Jun ████████ 80████████ 81 -
-Jul - - ████████ 83
-Aug - - █████████ 85
-Sep - - ██████████ 88
-
-
-
-### Confusion Matrix - Customer Churn
-Predicted
-NO YES
-Actual NO 342 28
-YES 35 195
-
-Accuracy: 87.3% | Precision: 87.4% | Recall: 84.8%
-
-
-
-### Customer Segments Distribution
-Segment 0 (High Value) ████████████████████ 42%
-Segment 1 (Medium) ██████████████ 31%
-Segment 2 (Low Value) ████████████ 27%
-
-
-
-
-
-### Correlation Heatmap (Text Format)
-usage tickets bill tenure
-usage 1.00 0.62 0.48 0.35
-tickets 0.62 1.00 0.51 -0.23
-bill 0.48 0.51 1.00 0.41
-tenure 0.35 -0.23 0.41 1.00
-
-
-
-
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6e40c9)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=6e40c9)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=6e40c9)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=6e40c9)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=6e40c9)
 
 ---
 
-## GitHub Analytics
+## 📊 Skill Breakdown
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chesergon&show_icons=true&theme=midnight-purple&hide_border=true&title_color=a288f5&icon_color=6e40c9&text_color=ffffff&bg_color=0d0b1a"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesergon&layout=compact&theme=midnight-purple&hide_border=true&title_color=a288f5&text_color=ffffff&bg_color=0d0b1a"/>
+
+![Skills Radar](https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','Data+Analysis','Machine+Learning','Full+Stack','Statistics','Visualization'],datasets:[{label:'Chesergon',data:[80,75,55,85,65,70],backgroundColor:'rgba(110,64,201,0.2)',borderColor:'%236e40c9',pointBackgroundColor:'%23a288f5',pointBorderColor:'%23fff',pointHoverBackgroundColor:'%23fff',pointHoverBorderColor:'%236e40c9'}]},options:{plugins:{legend:{labels:{color:'white',font:{size:14}}}},scales:{r:{grid:{color:'%23333'},pointLabels:{color:'white',font:{size:12}},ticks:{color:'%23666',backdropColor:'transparent'}}}}}&backgroundColor=%23000000&width=500&height=400)
+
 </div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chesergon&theme=github-dark-dimmed&bg_color=0d0b1a&color=a288f5&line=6e40c9&point=ffffff&hide_border=true" />
+---
+
+## 📈 My Journey — From Code to Data
+
+<div align="center">
+
+![Journey](https://quickchart.io/chart?c={type:'line',data:{labels:['Q1+2023','Q2+2023','Q3+2023','Q4+2023','Q1+2024','Now'],datasets:[{label:'Software+Engineering',data:[60,70,78,82,85,88],borderColor:'%236e40c9',backgroundColor:'rgba(110,64,201,0.1)',fill:true,tension:0.4,pointRadius:5,pointBackgroundColor:'%236e40c9'},{label:'Data+Science',data:[0,0,10,30,60,78],borderColor:'%23a288f5',backgroundColor:'rgba(162,136,245,0.1)',fill:true,tension:0.4,pointRadius:5,pointBackgroundColor:'%23a288f5'}]},options:{plugins:{legend:{labels:{color:'white',font:{size:13}}}},scales:{x:{ticks:{color:'white'},grid:{color:'%23222'}},y:{ticks:{color:'white'},grid:{color:'%23222'},min:0,max:100}}}}&backgroundColor=%23000000&width=600&height=300)
+
+</div>
 
 ---
 
-## Projects
+## 🏆 GitHub Stats
 
-| Project | Best Metric | Tools |
-|---------|-------------|-------|
-| Customer Churn Prediction | AUC: 0.91 | XGBoost, SHAP, Pandas |
-| Sales Forecasting | MAPE: 9.8% | Prophet, Statsmodels |
-| Customer Segmentation | Silhouette: 0.72 | K-Means, PCA |
-| Anomaly Detection | F1: 0.85 | Isolation Forest |
-| NLP Sentiment Analysis | F1: 0.88 | BERT, Transformers |
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chesergon&layout=compact&theme=midnight-purple&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chesergon&theme=midnight-purple&hide_border=true)
+
+</div>
 
 ---
 
-## Current Focus
-
+## 🎯 What I'm Building Towards
 ```python
-active_projects = {
-    "fraud_detection": "Real-time anomaly detection pipeline",
-    "cltv_modeling": "Customer lifetime value prediction",
-    "recommendation": "Hybrid collaborative filtering system"
+goals = {
+    "2024": "Master ML algorithms & statistical modeling 🤖",
+    "2025": "Build data products solving real African problems 🌍",
+    "vision": "Bridge software engineering & data science 🌉",
+    "endgame": "Top Data Scientist in Africa 🏆"
 }
+```
 
-learning = ["MLOps", "Ray", "Kubernetes", "MLflow"]
+---
+
+## ⚡ Fun Facts & Insights
+
+| | |
+|---|---|
+| 📍 From | Nairobi, Kenya |
+| 🎓 Background | Full Stack Engineering |
+| 🔬 Current Path | Data Science + ML |
+| 💥 Superpower | I build AND analyze |
+| ☕ Fuel | Black coffee, always |
+| 🎯 Weakness | Too ambitious (not sorry) |
+| 🌙 Peak Hours | Late night coding sessions |
+| 📊 Fun Stat | Went from `console.log` to `plt.show()` |
+
+---
+
+## 🌱 Currently Learning
+
+- 📊 Statistical Analysis & Data Cleaning
+- 🤖 Machine Learning Algorithms  
+- 📉 Data Visualization — Matplotlib & Seaborn
+- 🧠 Deep Learning — coming soon...
+
+---
+
+<div align="center">
+
+*Currently turning caffeine and raw datasets into something the world hasn't seen yet. 🚀*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:000000&height=120&section=footer)
+
+</div>
